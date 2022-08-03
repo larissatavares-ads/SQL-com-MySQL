@@ -1,0 +1,12 @@
+Cadastro de clientes
+- CPF do cliente
+- Nome completo
+- Endereço (rua, bairro, cidade, estado e CEP)
+- Data de nascimento
+- Idade
+- Sexo
+- Limite de crédito para comprar produtos
+- Volume mínimo de sucos que pode comprar
+- O cliente já realizou a primeira compra?
+
+

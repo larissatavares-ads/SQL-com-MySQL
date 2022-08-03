@@ -1,0 +1,8 @@
+Cadastro de produto
+
+- Código de produto
+- Nome do produto
+- Embalagem
+- Tamanho
+- Sabor
+- Preço de lista
